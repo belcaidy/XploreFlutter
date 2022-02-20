@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">913749329450-174k8oo78jishbc63koue7p9pcet23ib.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">913749329450</string>
+    <string name="google_api_key" translatable="false">AIzaSyBOYky7tbkucr6cNgyYhcO9WQ6zoMrWZTE</string>
+    <string name="google_app_id" translatable="false">1:913749329450:android:a1c0a8db5c2ccf0b042553</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBOYky7tbkucr6cNgyYhcO9WQ6zoMrWZTE</string>
+    <string name="google_storage_bucket" translatable="false">xploreemsi.appspot.com</string>
+    <string name="project_id" translatable="false">xploreemsi</string>
+</resources>

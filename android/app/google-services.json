@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "913749329450",
+    "project_id": "xploreemsi",
+    "storage_bucket": "xploreemsi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913749329450:android:a1c0a8db5c2ccf0b042553",
+        "android_client_info": {
+          "package_name": "com.example.travel_ui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "913749329450-174k8oo78jishbc63koue7p9pcet23ib.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOYky7tbkucr6cNgyYhcO9WQ6zoMrWZTE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "913749329450-174k8oo78jishbc63koue7p9pcet23ib.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
